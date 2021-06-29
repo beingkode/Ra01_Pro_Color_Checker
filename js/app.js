@@ -11,3 +11,28 @@ colorInput.addEventListener('input', event=>{
         colorBlock.style.backgroundColor='#EDEDED'
     }
 })
+
+
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
+// const colorInput = document.getElementById('color');
